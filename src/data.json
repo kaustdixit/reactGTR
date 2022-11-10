@@ -1,0 +1,65 @@
+{
+  "owner": [
+    {
+      "OId": 1,
+      "name": "KD",
+      "email": "kd@email.com",
+      "city": "noida",
+      "age": 22,
+      "password": "email.com",
+      "password1": "email.com"
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@email.com",
+      "age": "22",
+      "city": "pune",
+      "password": "email.com",
+      "OId": 2
+    }
+  ],
+  "team": [
+    {
+      "Id": 101,
+      "fname": "KD",
+      "specialisation": "Exhaust",
+      "depno": 1
+    },
+    {
+      "Id": 102,
+      "fname": "KD",
+      "specialisation": "Engine",
+      "depno": 2
+    },
+    {
+      "Id": 103,
+      "fname": "KD",
+      "specialisation": "Marketing",
+      "depno": 3
+    },
+    {
+      "Id": 104,
+      "fname": "KD",
+      "specialisation": "Finance",
+      "depno": 4
+    },
+    {
+      "Id": 105,
+      "fname": "KD",
+      "specialisation": "Suspension",
+      "depno": 5
+    },
+    {
+      "Id": 106,
+      "fname": "KD",
+      "specialisation": "Interior",
+      "depno": 6
+    },
+    {
+      "Id": 107,
+      "fname": "KD",
+      "specialisation": "Brakes",
+      "depno": 7
+    }
+  ]
+}
